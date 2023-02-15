@@ -5,20 +5,20 @@ import "./header.css";
 const navLinks = [
   {
     display: "Home",
-    url: "#",
+    url: "/",
   },
   {
-    display: "Technology",
-    url: "#",
+    display: "Services",
+    url: "/service",
   },
 
   {
-    display: "About",
-    url: "#",
+    display: "Technology",
+    url: "/about",
   },
   {
     display: "Contacts",
-    url: "#",
+    url: "/contact",
   },
   
 ];
